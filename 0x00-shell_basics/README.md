@@ -1,1 +1,1 @@
-True to work
+Trust yourself
