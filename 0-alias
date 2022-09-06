@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls="rm *"
+echo 'Shell_variable_expansion' > README.md
